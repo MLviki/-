@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/milo/Projects/作业4/zuoye4.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+fstream
+-
+ceres/ceres.h
+-
+

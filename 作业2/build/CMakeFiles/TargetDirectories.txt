@@ -1,0 +1,8 @@
+/home/milo/Projects/作业2/build/CMakeFiles/rebuild_cache.dir
+/home/milo/Projects/作业2/build/CMakeFiles/edit_cache.dir
+/home/milo/Projects/作业2/build/lib/CMakeFiles/rebuild_cache.dir
+/home/milo/Projects/作业2/build/lib/CMakeFiles/edit_cache.dir
+/home/milo/Projects/作业2/build/lib/CMakeFiles/zuoye2.dir
+/home/milo/Projects/作业2/build/bin/CMakeFiles/rebuild_cache.dir
+/home/milo/Projects/作业2/build/bin/CMakeFiles/edit_cache.dir
+/home/milo/Projects/作业2/build/bin/CMakeFiles/main.dir

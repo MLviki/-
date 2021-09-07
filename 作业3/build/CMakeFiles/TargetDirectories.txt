@@ -1,0 +1,5 @@
+/home/milo/Projects/作业3/build/CMakeFiles/rebuild_cache.dir
+/home/milo/Projects/作业3/build/CMakeFiles/edit_cache.dir
+/home/milo/Projects/作业3/build/bin/CMakeFiles/rebuild_cache.dir
+/home/milo/Projects/作业3/build/bin/CMakeFiles/edit_cache.dir
+/home/milo/Projects/作业3/build/bin/CMakeFiles/main.dir

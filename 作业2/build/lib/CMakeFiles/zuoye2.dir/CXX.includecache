@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/milo/Projects/作业2/lib/dongtai.cpp
+dongtai.h
+/home/milo/Projects/作业2/lib/dongtai.h
+
+/home/milo/Projects/作业2/lib/dongtai.h
+iostream
+-
+cstring
+-
+

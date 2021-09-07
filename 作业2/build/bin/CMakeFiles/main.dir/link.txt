@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/zuoye2.cpp.o -o main 
